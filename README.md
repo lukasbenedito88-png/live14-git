@@ -98,7 +98,7 @@ Ficaremos felizes em receber sua participação! Se você:
 - Gostaria de colaborar no desenvolvimento
 
 **Por favor, entre em contato:**
-- 📧 **Email:** kathia.dev@gmail.com
+- 📧 **Email:** lukasbene88@lukasbenedito88-png
 - 💬 **GitHub Issues:** Abra uma issue neste repositório
 - 🔗 **Pull Requests:** Suas contribuições são bem-vindas!
 
